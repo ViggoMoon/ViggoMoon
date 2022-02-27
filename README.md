@@ -1,7 +1,7 @@
-# Noob PHP Developer
+# PHP Developer
 - 👋 Hi, I’m @ViggoMoon
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Nothing
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me viggomoon@gamil.com
 
